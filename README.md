@@ -71,7 +71,7 @@ The Power BI dashboard provides various views, focusing on different aspects of 
 📸 Screenshots
 
 ## Home View
-![Home]("C:\Users\91834\Downloads\Saba_home.PNG")
+![Home_Page]("Home_Page.PNG")
 
 ### Finance View
 ![Finance View]("C:\Users\91834\Downloads\F_Saba.PNG")
