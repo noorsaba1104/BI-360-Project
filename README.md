@@ -71,22 +71,22 @@ The Power BI dashboard provides various views, focusing on different aspects of 
 📸 Screenshots
 
 ## Home View
-<a href="https://github.com/noorsaba1104/BI-360-Project/blob/main/Home_Page.PNG"></a>
+![Saba_home](https://github.com/user-attachments/assets/c8071f38-fc21-4961-a992-aa2f34760dba)
 
 ### Finance View
-![Finance View]("C:\Users\91834\Downloads\F_Saba.PNG")
+![F_Saba](https://github.com/user-attachments/assets/71693657-429e-47c5-9125-ed7dc5d67a8a)
 
 ### Sales View
-![Sales View]("C:\Users\91834\Downloads\S_Saba.PNG")
+![S_Saba](https://github.com/user-attachments/assets/370b0f13-c0a8-41f1-9b3b-1b1e1cd3889a)
 
 ## Marketing View
-![Marketing View]("C:\Users\91834\Downloads\M_Saba.PNG")
+![M_Saba](https://github.com/user-attachments/assets/0a624f80-4857-4808-b866-6c71bc0feb28)
 
 ## Supplychain View
-![Supplychain View]("C:\Users\91834\Downloads\SC_Saba.PNG")
+![SC_Saba](https://github.com/user-attachments/assets/358008fc-86de-49db-a910-96eee968d866)
 
 ## Executive View
-![Executive View]("C:\Users\91834\Downloads\E_Saba.PNG")
+![E_Saba](https://github.com/user-attachments/assets/7ed63d1d-e926-47b7-bf91-b0dea020ff62)
 
 📂 Power BI Fil You can download the Power BI project file (**.pbix**) from the following link:  
 - [Download the Power BI Project File]("https://app.powerbi.com/view?r=eyJrIjoiYzU2ZjQ5NmQtZGZhYi00NDgzLTg5ODQtNDA2ZjdjOWFmNGM4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9")
