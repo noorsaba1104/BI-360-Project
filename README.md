@@ -1,4 +1,4 @@
-# BI-360-Project
+# Business Insights-360
 A complete BI solution for real-time business performance tracking at AtliQ Hardware
 
 BI 360 Project – AtliQ Hardware
